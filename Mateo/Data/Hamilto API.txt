@@ -1,0 +1,1 @@
+https://services.arcgis.com/rYz782eMbySr2srL/arcgis/rest/services/Drinking_Fountains_Layer_Test/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson
